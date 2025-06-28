@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Srija Chandra!
 
-🎓 I’m a Computer Science and Business Systems student passionate about **web development**, **data science**, and building creative, user-friendly software.
+🎓 I’m a Computer Science and Business Systems student passionate about **Web Development**, **Machine Learning**, and building creative, user-friendly software.
 
 💻 Currently exploring **PHP**, **JavaScript**, and excited to learn **React**, **Angular**, and **Node.js** and other technical frameworks.
 
