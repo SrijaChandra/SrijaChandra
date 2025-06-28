@@ -24,6 +24,7 @@
 
 ![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical&hide=prs,issues,contribs&hide_rank=true)
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=SrijaChandra&theme=radical)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrijaChandra&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📫 How to reach me
