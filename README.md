@@ -2,7 +2,7 @@
 
 🎓 I’m a Computer Science and Business Systems student passionate about **web development**, **data science**, and building creative, user-friendly software.
 
-💻 Currently exploring **PHP**, **JavaScript**, and excited to learn **React**, **Angular**, and **Node.js** and other technological frameworks.
+💻 Currently exploring **PHP**, **JavaScript**, and excited to learn **React**, **Angular**, and **Node.js** and other technical frameworks.
 
 🚀 I enjoy turning ideas into projects — from interactive websites to data-driven applications — and I'm always eager to learn and collaborate on innovative ideas!
 
@@ -19,14 +19,14 @@
 
 ## 🔥 GitHub Stats
 
-![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical)
+<!--![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijaChandra&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=SrijaChandra&theme=radical)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=SrijaChandra&theme=radical)-->
 
 
 ## 📫 How to reach me
 - 🌐 [GitHub](https://github.com/SrijaChandra)
-- 💼 [LinkedIn](https://www.linkedin.com/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/%20srija-chandra-85813a272)
 - 📧 [Email](chandra.srija11@gmail.com) 
 
 
