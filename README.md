@@ -22,8 +22,7 @@
 <!--![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijaChandra&layout=compact&theme=radical)
 
-![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical&hide_rank=true)
-
+![Srija's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijaChandra&show_icons=true&theme=radical&hide=prs,issues,contribs&hide_rank=true)
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=SrijaChandra&theme=radical)-->
 
 
